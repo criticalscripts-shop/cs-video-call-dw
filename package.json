@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "main": "server/listener.js",
+    "version": "1.0.0",
+    "description": "Critical Scripts | Video Call Discord Webhook | https://criticalscripts.shop",
+    "dependencies": {
+        "request": "^2.88.2"
+    }
+}
